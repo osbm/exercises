@@ -1,2 +1,5 @@
 # not interested in .pyc files
 *.pyc
+
+.ipynb_checkpoints
+__pycache__/
